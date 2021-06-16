@@ -1,0 +1,58 @@
+ 
+h1{ 
+    color: rgb(250, 0, 0);
+    background-color: rgb(255, 255, 255);   
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+          
+h3{ 
+    color: rgb(245, 161, 4); 
+    
+    background-color: rgb(255, 255, 255);
+}
+    
+
+h4{ 
+    color: rgb(43, 128, 226); 
+    
+    background-color: rgb(255, 255, 255);
+}
+    
+
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly ;
+    border-color: orangered;
+    margin: 20px;
+    padding: 50px
+}
+
+.description{
+    text-align: center;
+}
+
+.made{
+    display: flex;
+    justify-content: flex-start;
+    background-color: rgb(255, 255, 255);
+}
+
+p{
+    color: black; 
+}
+
+body{
+    margin: 0px;
+    background-color: rgb(253, 180, 241);
+}
+
+
+
+           
+       
+           
+        
